@@ -2,7 +2,8 @@
 
 > Electron-Vue 项目
 
-This is a vue electron admin project base on  [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template) , and was generated from [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about this project can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+这是一个基于VueAdmin模板的 [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template) 管理项目   , 由使用 [vue-cli](https://github.com/vuejs/vue-cli) 的 [electron-vue](https://github.com/SimulatedGREG/electron-vue) 生成. 有关此项目的文档可以在此处找到 [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+
 
 ## 生成安装程序
 
